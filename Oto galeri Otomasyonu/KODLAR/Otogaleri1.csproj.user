@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\muham\source\repos\Otogaleri1\Otogaleri1\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="formanasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAraçkayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAraçListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMüşteriListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSatış.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSözleşme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="müşteriekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+Oto galeri otomasyonunu kurmak için relase winrar dosyasını açıp galeri setup dosyasını kurmamız lazım,adımları takip ettikten sonra 
+kurma işlemi başarılı bir şekilde yapılmış oluyor ,kurma işlemi yapıldıktan sonra galeri otomasyonu artık kullanıma hazır hale geliyor.
+galeri otomasyonunu açıldıktan sonra karşıma yapmak istediğimiz butonlar çıkıyor o butonlar bize araç ekleme ,eklediğimiz aracın güncelleme
+araç listeleme işlemleri ,müşteri ekleme , müşteri listeleme ve müşteri güncelleme işlemleri,sattığımız veya kiraladığımız aracın sözleşme 
+kısmı,satış butonumuz ve daha detaylı bir çok özellikleri bulunuyor  
+ 
